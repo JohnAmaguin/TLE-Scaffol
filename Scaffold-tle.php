@@ -1,10 +1,5 @@
 <html>
-
-<head>
-<title>
-TLE Scaffold
-</title>
-</head>
+<head> <title> TLE Scaffold </title> </head>
 
 <body background="background.png">
 
